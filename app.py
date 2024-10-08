@@ -112,7 +112,7 @@ def create_app():
             tree.insert("", "end", values=(course.title, course.credit, course.exam))
     
     sort_by = None
-    def on_header_click(event):
+    def on_click(event):
         # Check which region was clicked
         region = tree.identify_region(event.x, event.y)
         
@@ -141,8 +141,7 @@ def create_app():
         entry.select_range(0, tk.END)
         entry.icursor(tk.END)  # Move cursor to the end
         return "break"  # Prevent default handling
-    tree.bind("<Button-1>", on_header_click)
-    # Bind the Enter key to the search function
+    tree.bind("<Button-1>", on_click)
     entry.bind("<Return>", search)
     entry.bind("<Control-a>", select_all)
 
