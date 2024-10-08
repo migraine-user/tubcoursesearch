@@ -2,9 +2,10 @@
 TU Berlin Course Search for Computer Science (Informatik) (M. Sc.) - StuPO 2015 as of Wi/Se 2024/5
 ![Screenshot](image.png)
 # How to use
-run `python app.py`. 
+1. Clone this repo.
+2. run `python app.py` in the terminal.
 
-# Functions
+# Features
 - Search for course title with the textbox.
 - Press enter to search.
 - Clicking on a row copies the course title.  
