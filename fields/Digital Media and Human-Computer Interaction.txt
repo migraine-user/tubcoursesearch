@@ -1,0 +1,148 @@
+Advanced Web Technologies 12 Portfolio
+examination ja 1.0
+Adversarial Machine Learning 6 Written exam ja 1.0
+Angewandte Lichttechnik 6 Portfolio
+examination ja 1.0
+Automatic Image Analysis 6 Written exam ja 1.0
+Beleuchtungstechnik 6 Oral exam ja 1.0
+Biometric Identification 3 Portfolio
+examination ja 1.0
+Communication acoustics 6 Written exam ja 1.0
+Computer Graphics I (Fundamentals) 6 Portfolio
+examination ja 1.0
+Computer Graphics II (Geometric Modeling) 6 Oral exam ja 1.0
+Computer Graphics Project 9 Portfolio
+examination ja 1.0
+Computer Graphics Seminar A 3 Portfolio
+examination ja 1.0
+Computer Graphics Seminar B 3 Portfolio
+examination ja 1.0
+Computer-Supported Interaction 3 Written exam ja 1.0
+Current Developments in Internet and Society 3 Portfolio
+examination ja 1.0
+Digital Image Processing 6 Written exam ja 1.0
+Digitale Nachrichtenübertragung 6 Written exam ja 1.0
+Digitale Nachrichtenübertragung - Vertiefung 6 Portfolio
+examination ja 1.0
+Elektronik und Signalverarbeitung 3 Portfolio
+examination ja 1.0
+Foundations of Statistical Inference, Detection, and Estimation 6 Portfolio
+examination ja 1.0
+Game Programming 9 Portfolio
+examination ja 1.0
+Grundlagen der automatischen Spracherkennung 6 Portfolio
+examination ja 1.0
+Hot Topics in Communication Systems 3 Portfolio
+examination ja 1.0
+Image Processing for Remote Sensing 6 Portfolio
+examination ja 1.0
+Image and Video Coding 6 Oral exam ja 1.0
+Kognitionspsychologie 6 Written exam ja 1.0
+Licht- und Farbwahrnehmung 6 Oral exam ja 1.0
+Lichtquellen 6 Oral exam ja 1.0
+Lichttechnik 6 Oral exam ja 1.0
+Lichttechnik: Grundlagen und Anwendungen 6 Portfolio
+examination ja 1.0
+Lichttechnische Forschung 6 Portfolio
+examination ja 1.0
+Machine Intelligence I 6 Written exam ja 1.0
+Machine Intelligence II 6 Written exam ja 1.0
+Machine Learning 1 9 Written exam ja 1.0
+Machine Learning 1-X 12 Written exam ja 1.0
+Machine Learning 2 9 Written exam ja 1.0
+Machine Learning 2-X 12 Written exam ja 1.0
+Machine Learning Lab Course 9 Oral exam ja 1.0
+Machine Learning and Inverse Modeling in Neuroimaging 3 Portfolio
+examination ja 1.0
+Machine Learning for Remote Sensing Data Analysis 3 Portfolio
+examination ja 1.0
+Machine Learning in Neuroscience 3 Presentation ja 1.0
+Machine and Behavior 3 Portfolio
+examination ja 1.0
+Medizinische Signalverarbeitung 9 Portfolio
+examination ja 1.0
+Mensch und Maschine: Wie künstliche Intelligenz unser Leben verändert 6 Portfolio
+examination ja 1.0
+Microwave and Radar Remote Sensing 6 Written exam ja 1.0
+Multimodal Interaction 6 Portfolio
+examination ja 1.0
+Musikinformatik I (MSc-AKT 8a) 6 Portfolio
+examination ja 1.0
+Natural Language Processing 6 Portfolio
+examination ja 1.0
+10/07/2024, 12:14:18 PM Computer Science (Informatik) - StuPO 2015 Seite 11 von 33
+Optische Kommunikationstechnik 12 Portfolio
+examination ja 1.0
+Photogrammetric Computer Vision 6 Written exam ja 1.0
+Photonische Kommunikationsnetze und Komponenten 12 Portfolio
+examination ja 1.0
+Physics-Informed Machine Learning 3 Portfolio
+examination ja 1.0
+Project Advanced Network Technologies 6 Portfolio
+examination ja 1.0
+Project Computer Vision for Remote Sensing 9 Portfolio
+examination ja 1.0
+Project Hot Topics in Computer Vision A 9 Portfolio
+examination ja 1.0
+Project Hot Topics in Computer Vision B 9 Portfolio
+examination ja 1.0
+Project Industrial Assistance-Systems (IAS Project) 9 Portfolio
+examination ja 1.0
+Projekt - Verteilte industrielle Steuerungssysteme 9 Portfolio
+examination ja 1.0
+Projekt Advanced Web Technologies 9 Portfolio
+examination ja 1.0
+Projekt Nachrichtenübertragung 6 Portfolio
+examination ja 1.0
+Projekt Neuronale Informationsverarbeitung 9 Portfolio
+examination ja 1.0
+Projektorientierte App- und Web-Entwicklung 6 Portfolio
+examination nein 1.0
+Psychologie für Ingenieure und Ingenieurinnen 6 Written exam ja 1.0
+Quality & Usability 3 Portfolio
+examination ja 1.0
+Quality Assurance for Machine Learning 3 Portfolio
+examination ja 1.0
+Quellencodierung - Multimediasignalverarbeitung 6 Portfolio
+examination ja 1.0
+Recent Trends in Deep Learning for Computer Vision 3 Portfolio
+examination ja 1.0
+Research Project Advanced Network Technologies 9 Portfolio
+examination ja 1.0
+Responsible Artificial Intelligence 6 Written exam ja 1.0
+SIP - Stereo Image Processing 3 Written exam ja 1.0
+Schwerpunktprojekt Lichttechnik 6 Portfolio
+examination ja 1.0
+Selected Topics in Digital Media and Human-Computer Interaction (ENHANCE
+Alliance) 30 Written exam ja 1.0
+Signalprozessor-Projekt 6 Portfolio
+examination ja 1.0
+Solarstrahlung 6 Oral exam ja 1.0
+Speech Signal Processing and Speech Technology 6 Portfolio
+examination ja 1.0
+Speech and Audio Technology in Medicine 3 Portfolio
+examination ja 1.0
+Study Project Quality & Usability (6 CP) 6 Portfolio
+examination ja 1.0
+Study Project Quality & Usability (9 CP) 9 Portfolio
+examination ja 1.0
+Technische Akustik - Grundlagen 6 Oral exam ja 1.0
+Technische studentische Exoskelettentwicklung (RISE) I 6 Portfolio
+examination ja 1.0
+Technische studentische Exoskelettentwicklung (RISE) II 6 Portfolio
+examination ja 1.0
+Theoretische Akustik / Virtuelle Akustik 12 Portfolio
+examination ja 1.0
+Topics in Biomedical Data Science 3 Portfolio
+examination ja 1.0
+Uncertainty in Machine Learning 3 Portfolio
+examination ja 1.0
+Usability Engineering 6 Portfolio
+examination ja 1.0
+Usable Privacy 3 Portfolio
+examination ja 1.0
+VS - View Synthesis 3 Written exam ja 1.0
+Vertiefende Themen in HCI 6 Portfolio
+examination ja 1.0
+Virtuelle Akustik (MSc-AKT 10) 6 Portfolio
+examination ja 1.0

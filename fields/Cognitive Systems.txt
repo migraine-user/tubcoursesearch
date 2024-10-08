@@ -1,0 +1,209 @@
+AI and Robotics: Lab Course 6 Portfolio
+examination ja 1.0
+AI and Robotics: Research 3 Portfolio
+examination nein 1.0
+Advanced Python Programming for Deep Learning in Remote Sensing 9 Portfolio
+examination ja 1.0
+Adversarial Machine Learning 6 Written exam ja 1.0
+Applications of Robotics and Autonomous Systems 9 Portfolio
+examination ja 1.0
+Architecture of Machine Learning Systems 6 Oral exam ja 1.0
+Automatic Image Analysis 6 Written exam ja 1.0
+Bildbasierte Blutflusssimulation für die Medizin 9 Portfolio
+examination ja 1.0
+Bio-inspired Computer Vision 9 Portfolio
+examination ja 1.0
+Biometric Identification 3 Portfolio
+examination ja 1.0
+Brain-Computer Interfacing 9 Portfolio
+examination ja 1.0
+Brain-Computer Interfacing (basic) 6 Portfolio
+examination ja 1.0
+Computational modeling - A practical course 3 Portfolio
+examination nein 1.0
+Computer-Supported Interaction 3 Written exam ja 1.0
+Current Developments in Internet and Society 3 Portfolio
+examination ja 1.0
+Current Topics in Computational Neuroscience 3 Portfolio
+examination nein 1.0
+DCAITI: Projekt Simulation Vertiefung vernetztes und automatisiertes Fahren 9 Portfolio
+examination ja 1.0
+DCAITI: Projekt Vertiefung vernetztes und automatisiertes Fahren 9 Portfolio
+examination ja 1.0
+DCAITI: Projekt vernetztes und automatisiertes Fahren 6 Portfolio
+examination ja 1.0
+DCAITI: Simulation vernetztes und automatisiertes Fahren 6 Portfolio
+examination ja 1.0
+DCAITI: Vernetztes und automatisiertes Fahren 6 Portfolio
+examination ja 1.0
+Data Integration and Large-scale Analysis 6 Written exam ja 1.0
+Data Science Project 9 Portfolio
+examination ja 1.0
+Deep Learning 1 6 Written exam ja 1.0
+Deep Learning 1-X 9 Written exam ja 1.0
+Deep Learning 2 6 Written exam ja 1.0
+Deep Learning 2-X 9 Written exam ja 1.0
+Digital Image Processing 6 Written exam ja 1.0
+Discrete Event Systems 6 Portfolio
+examination ja 1.0
+EDML - Engineering Data for Machine Learning 6 Portfolio
+examination ja 1.0
+Ethics, data science, and networked AI 6 Portfolio
+examination ja 1.0
+Event-based Robot Vision 6 Portfolio
+examination ja 1.0
+Event-based Robot Vision Project 9 Portfolio
+examination ja 1.0
+Flying Robots 9 Portfolio
+examination ja 1.0
+Foundations of Data Science 6 Oral exam ja 1.0
+Fundamentals of Multi-Agent Technologies 6 Portfolio
+examination ja 1.0
+Graduate Research Project DM II 6 Oral exam ja 1.0
+Graduate Research Project DM III 6 Portfolio
+examination ja 1.0
+Graduate Research Project ML I (6 LP) 6 Portfolio
+examination ja 1.0
+Graduate Research Project ML II 6 Oral exam ja 1.0
+Graduate Research Project ML III 6 Portfolio
+examination ja 1.0
+Hybrid Systems 6 Written exam ja 1.0
+Image Processing for Remote Sensing 6 Portfolio
+examination ja 1.0
+Intelligent Robotic Systems - Research Project 12 Portfolio
+examination ja 1.0
+Introduction to Prompt Engineering 6 Portfolio
+examination ja 1.0
+Journal Club Ethics and Epistemology of AI (3 ECTS) 3 Portfolio
+examination ja 1.0
+Journal Club Ethics and Epistemology of AI (6 ECTS) 6 Portfolio
+examination ja 1.0
+Julia for Machine Learning 6 Portfolio
+examination ja 1.0
+Kognitionspsychologie 6 Written exam ja 1.0
+Large-scale Data Engineering 12 Portfolio
+examination ja 1.0
+Learning and Intelligent Systems: Project 9 Portfolio
+examination ja 1.0
+Machine Intelligence I 6 Written exam ja 1.0
+Machine Intelligence II 6 Written exam ja 1.0
+Machine Learning 1 9 Written exam ja 1.0
+Machine Learning 1-X 12 Written exam ja 1.0
+Machine Learning 2 9 Written exam ja 1.0
+Machine Learning 2-X 12 Written exam ja 1.0
+Machine Learning Lab Course 9 Oral exam ja 1.0
+Machine Learning Project 9 Portfolio
+examination ja 1.0
+Machine Learning and Data Management Systems 3 Presentation ja 1.0
+Machine Learning and Inverse Modeling in Neuroimaging 3 Portfolio
+examination ja 1.0
+Machine Learning and Security - Advanced Project 18 Portfolio
+examination ja 1.0
+Machine Learning and Security - Master Seminar 3 Portfolio
+examination ja 1.0
+Machine Learning and Security - Project 9 Portfolio
+examination ja 1.0
+Machine Learning for Computer Security 6 Written exam ja 1.0
+Machine Learning for Remote Sensing Data Analysis 3 Portfolio
+examination ja 1.0
+Machine Learning in Medical Image Processing 9 Portfolio
+examination ja 1.0
+Machine Learning in Neuroscience 3 Presentation ja 1.0
+Machine Learning in Science and Industry 3 Oral exam ja 1.0
+Machine and Behavior 3 Portfolio
+examination ja 1.0
+Magnetic Resonance Imaging 6 Portfolio
+examination ja 1.0
+Master Seminar: Selected Topics in Robot Learning 3 Portfolio
+examination nein 1.0
+Mathematics of Machine Learning 6 Oral exam ja 1.0
+Medical Image Processing 6 Oral exam ja 1.0
+Microwave and Radar Remote Sensing 6 Written exam ja 1.0
+Modelle zur Informationsverarbeitung im Gehirn 6 Oral exam ja 1.0
+Models of Higher Brain Functions 12 Oral exam ja 1.0
+Models of Higher Brain Functions - Introduction 6 Oral exam ja 1.0
+Models of Higher Brain Functions: Theory and Simulation 9 Oral exam ja 1.0
+Motion Planning 6 Portfolio
+examination ja 1.0
+Multi-Robot Systems 3 Portfolio
+examination ja 1.0
+Multimodal Interaction 6 Portfolio
+examination ja 1.0
+Multivariable Control Systems 6 Written exam ja 1.0
+Nonlinear Control Systems 6 Written exam ja 1.0
+Optimization Algorithms 6 Written exam ja 1.0
+Photogrammetric Computer Vision 6 Written exam ja 1.0
+Physics-Informed Machine Learning 3 Portfolio
+examination ja 1.0
+Project Computer Vision for Remote Sensing 9 Portfolio
+examination ja 1.0
+Project Ethical and Social Challenges of Emerging Technologies: Automation,
+Robotics, AI 6 Portfolio
+examination ja 1.0
+Project Ethics and Epistemology of AI (6 LP) 6 Portfolio
+examination ja 1.0
+Project Hot Topics in Computer Vision A 9 Portfolio
+examination ja 1.0
+Project Hot Topics in Computer Vision B 9 Portfolio
+examination ja 1.0
+Project: Brain-Computer Interfacing 9 Portfolio
+examination ja 1.0
+Projekt - Verteilte industrielle Steuerungssysteme 9 Portfolio
+examination ja 1.0
+Projekt Neuronale Informationsverarbeitung 9 Portfolio
+examination ja 1.0
+Psychologie für Ingenieure und Ingenieurinnen 6 Written exam ja 1.0
+Python for Machine Learning 6 Written exam ja 1.0
+Quality & Usability 3 Portfolio
+examination ja 1.0
+Quality Assurance for Machine Learning 3 Portfolio
+examination ja 1.0
+RDSEM - Seminar on Responsible Data Engineering 3 Portfolio
+examination ja 1.0
+Recent Trends in Deep Learning for Computer Vision 3 Portfolio
+examination ja 1.0
+Responsible Artificial Intelligence 6 Written exam ja 1.0
+Robot Learning 6 Written exam ja 1.0
+Robotics 6 Portfolio
+examination ja 1.0
+Robotics I+II 12 Portfolio
+examination ja 1.0
+Robotics: Advanced 6 Portfolio
+examination ja 1.0
+Robotics: Current Topics 3 Portfolio
+examination ja 1.0
+Robotics: Project 9 Portfolio
+examination ja 1.0
+SIP - Stereo Image Processing 3 Written exam ja 1.0
+Selected Topics in Cognitive Systems (ENHANCE Alliance) 30 Written exam ja 1.0
+Seminar Hot Topics in Computer Vision 3 Portfolio
+examination ja 1.0
+Seminar on Artificial Intelligence for Biomedical Applications 6 Portfolio
+examination ja 1.0
+Smart Security Lab 6 Portfolio
+examination nein 1.0
+Speech Signal Processing and Speech Technology 6 Portfolio
+examination ja 1.0
+State Estimation for Robotics 6 Portfolio
+examination ja 1.0
+Study Project Quality & Usability (6 CP) 6 Portfolio
+examination ja 1.0
+Study Project Quality & Usability (9 CP) 9 Portfolio
+examination ja 1.0
+Systemidentifikation und Regelung in der Medizin 6 Written exam ja 1.0
+Technische Diagnose 6 Written exam ja 1.0
+Topics in Biomedical Data Science 3 Portfolio
+examination ja 1.0
+Tracking Methoden im Maschinellen Sehen 3 Portfolio
+examination ja 1.0
+Uncertainty in Machine Learning 3 Portfolio
+examination ja 1.0
+Usability Engineering 6 Portfolio
+examination ja 1.0
+Usable Privacy 3 Portfolio
+examination ja 1.0
+VS - View Synthesis 3 Written exam ja 1.0
+Vertiefende Themen in HCI 6 Portfolio
+examination ja 1.0
+Workshop Machine Learning Foundations for Physicists 9 Portfolio
+examination nein 1.0

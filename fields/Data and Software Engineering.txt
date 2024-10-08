@@ -1,0 +1,161 @@
+Advanced Algorithmics 9 Written exam ja 1.0
+Advanced Blockchain Prototyping 12 Portfolio
+examination ja 1.0
+Advanced Cloud Prototyping 12 Portfolio
+examination ja 1.0
+Advanced Computer Architecture 6 Portfolio
+examination ja 1.0
+Advanced Distributed Systems Prototyping 12 Portfolio
+examination ja 1.0
+Advanced Information Systems Prototyping 12 Portfolio
+examination ja 1.0
+Advanced Privacy Prototyping 12 Portfolio
+examination ja 1.0
+Advanced Python Programming for Deep Learning in Remote Sensing 9 Portfolio
+examination ja 1.0
+Algebraic Process Calculi 6 Portfolio
+examination ja 1.0
+Algorithm Engineering II 9 Portfolio
+examination ja 1.0
+Algorithmics for Discrete Data Science 6 Written exam ja 1.0
+Algorithmische Bioinformatik 6 Oral exam ja 1.0
+Applications of Robotics and Autonomous Systems 9 Portfolio
+examination ja 1.0
+Applied Security Lab 6 Portfolio
+examination nein 1.0
+Architecture of Machine Learning Systems 6 Oral exam ja 1.0
+BDASEM Big Data Analytics Seminar 3 Portfolio
+examination ja 1.0
+BDSPRO Big Data Systems Project 9 Portfolio
+examination ja 1.0
+Cloud Native Architecture and Engineering 6 Portfolio
+examination ja 1.0
+Cloud Service Benchmarking 6 Portfolio
+examination ja 1.0
+Current Research in Algorithms and Complexity 3 Presentation ja 1.0
+DBT Database Technology 6 Portfolio
+examination ja 1.0
+DBTLAB Database Technology Lab 6 Portfolio
+examination ja 1.0
+DCAITI: Projekt Simulation Vertiefung vernetztes und automatisiertes Fahren 9 Portfolio
+examination ja 1.0
+DCAITI: Projekt Vertiefung vernetztes und automatisiertes Fahren 9 Portfolio
+examination ja 1.0
+DCAITI: Projekt vernetztes und automatisiertes Fahren 6 Portfolio
+examination ja 1.0
+DCAITI: Simulation vernetztes und automatisiertes Fahren 6 Portfolio
+examination ja 1.0
+DCAITI: Vernetztes und automatisiertes Fahren 6 Portfolio
+examination ja 1.0
+DMH Data Management on Modern Hardware 6 Portfolio
+examination ja 1.0
+Data Integration Seminar 3 Portfolio
+examination ja 1.0
+Data Integration and Large-scale Analysis 6 Written exam ja 1.0
+Data Integration: Algorithms and Systems 6 Oral exam ja 1.0
+Data Science Project 9 Portfolio
+examination ja 1.0
+Deep Learning 1 6 Written exam ja 1.0
+Deep Learning 1-X 9 Written exam ja 1.0
+Deep Learning 2 6 Written exam ja 1.0
+Deep Learning 2-X 9 Written exam ja 1.0
+EDML - Engineering Data for Machine Learning 6 Portfolio
+examination ja 1.0
+Engineering of Digital Transformation 6 Oral exam ja 1.0
+Entwicklung verteilter eingebetteter Systeme 3 Portfolio
+examination ja 1.0
+Fog Computing 6 Portfolio
+examination ja 1.0
+Forschungsseminar Data Integration and Data Preparation 3 No exam nein 1.0
+Foundations of Data Science 6 Oral exam ja 1.0
+Graduate Research Project DM I 6 Portfolio
+examination ja 1.0
+Graduate Research Project DM II 6 Oral exam ja 1.0
+Graduate Research Project DM III 6 Portfolio
+examination ja 1.0
+Graduate Research Project ML I (6 LP) 6 Portfolio
+examination ja 1.0
+Graduate Research Project ML II 6 Oral exam ja 1.0
+Graduate Research Project ML III 6 Portfolio
+examination ja 1.0
+Grundlagen Digitaler Vernetzung 6 Portfolio
+examination ja 1.0
+Hot Topics in Information Systems Engineering 3 Portfolio
+examination ja 1.0
+IMSEM Seminar on Hot Topics in Information Management 3 Portfolio
+examination ja 1.0
+IT Security Lab: Vulnerability Assessment 6 Portfolio
+examination ja 1.0
+International Information Security Contest 12 Portfolio
+examination ja 1.0
+Introduction into Interactive Theorem Proving 3 Oral exam ja 1.0
+Journal Club Ethics and Epistemology of AI (3 ECTS) 3 Portfolio
+examination ja 1.0
+Journal Club Ethics and Epistemology of AI (6 ECTS) 6 Portfolio
+examination ja 1.0
+Julia for Machine Learning 6 Portfolio
+examination ja 1.0
+Large-scale Data Engineering 12 Portfolio
+examination ja 1.0
+MDS Management of Data Streams 6 Portfolio
+examination ja 1.0
+Machine Learning Lab Course 9 Oral exam ja 1.0
+Machine Learning and Data Management Systems 3 Presentation ja 1.0
+Machine Learning and Security - Advanced Project 18 Portfolio
+examination ja 1.0
+Machine Learning and Security - Master Seminar 3 Portfolio
+examination ja 1.0
+Machine Learning and Security - Project 9 Portfolio
+examination ja 1.0
+Machine Learning for Computer Security 6 Written exam ja 1.0
+Master Project Software Engineering of Embedded Systems 9 Portfolio
+examination ja 1.0
+Master Project and Seminar Software Engineering of Embedded Systems 9 Portfolio
+examination ja 1.0
+Master Project: Large Scale Data Integration 9 Portfolio
+examination ja 1.0
+Modellgetriebene Software-Entwicklung 6 Written exam ja 1.0
+Multicore Systems 6 Portfolio
+examination ja 1.0
+Natural Language Processing 6 Portfolio
+examination ja 1.0
+Parameterized Algorithmics 6 Oral exam ja 1.0
+Project Advanced Research Data Infrastructures 9 Portfolio
+examination ja 1.0
+Project Ethical and Social Challenges of Emerging Technologies: Automation,
+Robotics, AI 6 Portfolio
+examination ja 1.0
+Project Ethics and Epistemology of AI (6 LP) 6 Portfolio
+examination ja 1.0
+Projekt Neuronale Informationsverarbeitung 9 Portfolio
+examination ja 1.0
+Projektorientierte App- und Web-Entwicklung 6 Portfolio
+examination nein 1.0
+Python for Machine Learning 6 Written exam ja 1.0
+Quality Assurance of Embedded Systems 6 Oral exam ja 1.0
+Quantum Computing 6 Written exam ja 1.0
+Quantum Cryptography 3 Written exam ja 1.0
+RDSEM - Seminar on Responsible Data Engineering 3 Portfolio
+examination ja 1.0
+ROC Foundations for Graduate Research in Data Management and Machine
+Learning Systems 9 Portfolio
+examination ja 1.0
+Reading Group Cloud Systems 3 Portfolio
+examination ja 1.0
+Scalable Software Systems Project 12 Portfolio
+examination ja 1.0
+Secure Cryptography 6 Oral exam ja 1.0
+Selected Topics in Data and Software Engineering (ENHANCE Alliance) 30 Written exam ja 1.0
+Seminar Software and Embedded Systems Engineering 3 Portfolio
+examination ja 1.0
+Smart Security Lab 6 Portfolio
+examination nein 1.0
+Software Security for Autonomous Systems 6 Portfolio
+examination ja 1.0
+Symmetric-Key Cryptography 6 Oral exam ja 1.0
+The AMOS Project - Product Owner Role 6 Portfolio
+examination ja 1.0
+The AMOS Project - Scrum Master Role 3 Portfolio
+examination ja 1.0
+The AMOS Project - Software Developer Role 9 Portfolio
+examination ja 1.0

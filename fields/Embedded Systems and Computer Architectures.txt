@@ -1,0 +1,68 @@
+AI and Cybersecurity 6 Portfolio
+examination ja 1.0
+Advanced Computer Architecture 6 Portfolio
+examination ja 1.0
+Advanced Topics in Networked and Distributed Systems 3 Portfolio
+examination ja 1.0
+Algorithms for Distributed Systems 6 Written exam ja 1.0
+Algorithms for Networked Systems 6 Written exam ja 1.0
+Analog Layout Design 3 Oral exam ja 1.0
+Applied Embedded Systems Project 6 Portfolio
+examination ja 1.0
+Compiler Design 6 Portfolio
+examination ja 1.0
+Compiling Techniques 6 Portfolio
+examination ja 1.0
+Computer Arithmetic: Circuit Perspective 6 Portfolio
+examination ja 1.0
+Computer Security - Big Project 9 Portfolio
+examination ja 1.0
+Computer Security - Seminar 3 Portfolio
+examination ja 1.0
+Computer Security - Small Project 6 Portfolio
+examination ja 1.0
+Dependable Embedded Systems 6 Oral exam ja 1.0
+Digital Integrated Circuits (DIC) 6 Written exam ja 1.0
+Discrete Event Systems 6 Portfolio
+examination ja 1.0
+Embedded Systems Security Lab 6 Portfolio
+examination ja 1.0
+Entwicklung verteilter eingebetteter Systeme 3 Portfolio
+examination ja 1.0
+Flying Robots 9 Portfolio
+examination ja 1.0
+GPU Computing 6 Portfolio
+examination ja 1.0
+Grundlagen des Softwaretestens 6 Written exam ja 1.0
+Hardware Security Lab 6 Portfolio
+examination ja 1.0
+Hybrid Systems 6 Written exam ja 1.0
+Intelligent Cybersecurity Applications 9 Portfolio
+examination ja 1.0
+Master Project Software Engineering of Embedded Systems 9 Portfolio
+examination ja 1.0
+Master Project and Seminar Software Engineering of Embedded Systems 9 Portfolio
+examination ja 1.0
+Multicore Systems 6 Portfolio
+examination ja 1.0
+Networked Embedded Systems 6 Oral exam ja 1.0
+Networked Systems Specialization (big) 9 Oral exam ja 1.0
+Networked Systems Specialization (small) 6 Oral exam ja 1.0
+Projekt System Quality Engineering 9 Portfolio
+examination ja 1.0
+Quality Assurance of Embedded Systems 6 Oral exam ja 1.0
+Recent Advances in Computer Architecture 3 Portfolio
+examination ja 1.0
+Selected Topics in Embedded Systems and Computer Architectures (ENHANCE
+Alliance) 30 Written exam ja 1.0
+Seminar Software and Embedded Systems Engineering 3 Portfolio
+examination ja 1.0
+Special Topics in Communications Networks and Autonomous Security 3 Portfolio
+examination ja 1.0
+System-on-Chip (SoC) + RISC-V Lab 12 Portfolio
+examination ja 1.0
+The AMOS Project - Scrum Master Role 3 Portfolio
+examination ja 1.0
+The AMOS Project - Software Developer Role 9 Portfolio
+examination ja 1.0
+Vehicular Networking and Cooperative Driving 6 Oral exam ja 1.0

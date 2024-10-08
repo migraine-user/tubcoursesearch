@@ -1,0 +1,51 @@
+Advanced Algorithmics 9 Written exam ja 1.0
+Advanced Topics in Networked and Distributed Systems 3 Portfolio
+examination ja 1.0
+Algebraic Process Calculi 6 Portfolio
+examination ja 1.0
+Algorithm Engineering II 9 Portfolio
+examination ja 1.0
+Algorithmic Graph Structure Theory 9 Oral exam ja 1.0
+Algorithmic Research in Teams 9 Portfolio
+examination ja 1.0
+Algorithmics for Discrete Data Science 6 Written exam ja 1.0
+Algorithmische Bioinformatik 6 Oral exam ja 1.0
+Algorithmische Graphentheorie 6 Oral exam ja 1.0
+Algorithms for Distributed Systems 6 Written exam ja 1.0
+Algorithms for Networked Systems 6 Written exam ja 1.0
+Approximationsalgorithmen (ADM III) 10 Oral exam ja 1.0
+Compiling Techniques 6 Portfolio
+examination ja 1.0
+Computational Complexity 9 Oral exam ja 1.0
+Computational Mixed Integer Programming (ADM III) 10 Oral exam ja 1.0
+Current Research in Algorithms and Complexity 3 Presentation ja 1.0
+Current trends in graph theory and combinatorics 3 Oral exam nein 1.0
+Diskrete Optimierung (ADM II) 10 Oral exam ja 1.0
+Extremale Graphentheorie 6 Oral exam ja 1.0
+Foundations of Stochastic Processes 6 Oral exam ja 1.0
+Game Theory 6 Oral exam ja 1.0
+Graph Minors 9 Oral exam ja 1.0
+Information Theory and Applications 6 Portfolio
+examination ja 1.0
+Introduction into Interactive Theorem Proving 3 Oral exam ja 1.0
+Lambda-Kalkül und Typ-Systeme 6 Oral exam ja 1.0
+Logik, Spiele, Automaten 9 Oral exam ja 1.0
+MTV Project: Research at Work 9 Portfolio
+examination ja 1.0
+MTV Seminar: Write, Review and Publish 3 Portfolio
+examination nein 1.0
+Models and Theory of Distributed Algorithms (9 LP) 9 Portfolio
+examination ja 1.0
+Networked Systems Specialization (big) 9 Oral exam ja 1.0
+Networked Systems Specialization (small) 6 Oral exam ja 1.0
+Parameterized Algorithmics 6 Oral exam ja 1.0
+Quantum Computing 6 Written exam ja 1.0
+Quantum Cryptography 3 Written exam ja 1.0
+Randomized Algorithmics 6 Oral exam ja 1.0
+Research Colloquium on Algorithms and Complexity 3 Presentation ja 1.0
+Secure Cryptography 6 Oral exam ja 1.0
+Selected Topics in Foundations of Computing (ENHANCE Alliance) 30 Written exam ja 1.0
+Structural Graph Theory 9 Oral exam ja 1.0
+Structure and Algorithmic Applications of Directed Graphs 6 Oral exam ja 1.0
+Symmetric-Key Cryptography 6 Oral exam ja 1.0
+Types and Programming Languages 6 Oral exam ja 1.0

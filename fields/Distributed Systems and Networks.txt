@@ -1,0 +1,171 @@
+5G / 6G Software Networks 6 Written exam ja 1.0
+5G Evolution / 6G Project 9 Portfolio
+examination ja 1.0
+AI and Cybersecurity 6 Portfolio
+examination ja 1.0
+Advanced Algorithmics 9 Written exam ja 1.0
+Advanced Blockchain Prototyping 12 Portfolio
+examination ja 1.0
+Advanced Cloud Prototyping 12 Portfolio
+examination ja 1.0
+Advanced Distributed Systems Prototyping 12 Portfolio
+examination ja 1.0
+Advanced Information Systems Prototyping 12 Portfolio
+examination ja 1.0
+Advanced Privacy Prototyping 12 Portfolio
+examination ja 1.0
+Advanced Topics in Networked and Distributed Systems 3 Portfolio
+examination ja 1.0
+Advanced Topics in Scalable Software Systems 3 Portfolio
+examination ja 1.0
+Advanced Web Technologies 12 Portfolio
+examination ja 1.0
+Advanced Wireless Communications 6 Portfolio
+examination ja 1.0
+Adversarial Machine Learning 6 Written exam ja 1.0
+Algebraic Process Calculi 6 Portfolio
+examination ja 1.0
+Algorithms for Distributed Systems 6 Written exam ja 1.0
+Algorithms for Networked Systems 6 Written exam ja 1.0
+Applied Artificial Intelligence Project 9 Portfolio
+examination ja 1.0
+Applied Networking Lab 9 Portfolio
+examination ja 1.0
+Applied Security Lab 6 Portfolio
+examination nein 1.0
+Architecture of Machine Learning Systems 6 Oral exam ja 1.0
+Blockchain Technology and Decentralized Applications 6 Oral exam ja 1.0
+Cloud Computing 6 Portfolio
+examination ja 1.0
+Cloud Native Architecture and Engineering 6 Portfolio
+examination ja 1.0
+Cloud Service Benchmarking 6 Portfolio
+examination ja 1.0
+Current Research in Algorithms and Complexity 3 Presentation ja 1.0
+Current Topics in Cryptocurrency and Blockchain Networks 3 Portfolio
+examination ja 1.0
+DCAITI: Projekt Simulation Vertiefung vernetztes und automatisiertes Fahren 9 Portfolio
+examination ja 1.0
+DCAITI: Projekt Vertiefung vernetztes und automatisiertes Fahren 9 Portfolio
+examination ja 1.0
+DCAITI: Projekt vernetztes und automatisiertes Fahren 6 Portfolio
+examination ja 1.0
+DCAITI: Simulation vernetztes und automatisiertes Fahren 6 Portfolio
+examination ja 1.0
+DCAITI: Vernetztes und automatisiertes Fahren 6 Portfolio
+examination ja 1.0
+DMH Data Management on Modern Hardware 6 Portfolio
+examination ja 1.0
+Data Integration Seminar 3 Portfolio
+examination ja 1.0
+Data Integration and Large-scale Analysis 6 Written exam ja 1.0
+Data Integration: Algorithms and Systems 6 Oral exam ja 1.0
+Dependable Embedded Systems 6 Oral exam ja 1.0
+Digital Communities - Digital Identities and Privacy 6 Oral exam ja 1.0
+Digital Value Networks - Electronic Commerce and Digital Identities 6 Oral exam ja 1.0
+Digital Value Networks - Electronic Commerce and Privacy 6 Oral exam ja 1.0
+Digital Value Networks - Electronic Commerce, Digital Identities, and Privacy 9 Oral exam ja 1.0
+Fog Computing 6 Portfolio
+examination ja 1.0
+Foundations of Stochastic Processes 6 Oral exam ja 1.0
+Fundamentals of Multi-Agent Technologies 6 Portfolio
+examination ja 1.0
+Grundlagen Digitaler Vernetzung 6 Portfolio
+examination ja 1.0
+Grundlagen des Softwaretestens 6 Written exam ja 1.0
+Hot Topics in Information Systems Engineering 3 Portfolio
+examination ja 1.0
+Hot Topics in Scalable Software Systems 3 Portfolio
+examination ja 1.0
+IT Operations 6 Written exam ja 1.0
+IT Security Lab: Vulnerability Assessment 6 Portfolio
+examination ja 1.0
+Information Theory and Applications 6 Portfolio
+examination ja 1.0
+Intelligent Cybersecurity Applications 9 Portfolio
+examination ja 1.0
+International Information Security Contest 12 Portfolio
+examination ja 1.0
+Internet and Network Security 6 Portfolio
+examination ja 1.0
+Internet of Services Lab (Project) 9 Portfolio
+examination ja 1.0
+Internet of Services Lab (Seminar) 3 Portfolio
+examination ja 1.0
+Introduction to Collective Robotics 6 Portfolio
+examination nein 1.0
+Lambda-Kalkül und Typ-Systeme 6 Oral exam ja 1.0
+Large-scale Data Engineering 12 Portfolio
+examination ja 1.0
+Machine Learning and Security - Advanced Project 18 Portfolio
+examination ja 1.0
+Machine Learning and Security - Master Seminar 3 Portfolio
+examination ja 1.0
+Machine Learning and Security - Project 9 Portfolio
+examination ja 1.0
+Machine Learning for Computer Security 6 Written exam ja 1.0
+Master Project: Distributed Systems 9 Portfolio
+examination ja 1.0
+Master Project: Large Scale Data Integration 9 Portfolio
+examination ja 1.0
+Master Seminar: Operating Complex IT Systems 3 Portfolio
+examination ja 1.0
+Mobile Services 6 Oral exam ja 1.0
+Modellgetriebene Software-Entwicklung 6 Written exam ja 1.0
+Models and Theory of Distributed Algorithms (9 LP) 9 Portfolio
+examination ja 1.0
+Molecular Communications and Nanonetworks 6 Oral exam ja 1.0
+Multi-Robot Systems 3 Portfolio
+examination ja 1.0
+Multimedia and Wireless Lab 9 Portfolio
+examination ja 1.0
+Network Architectures - Basics 6 Written exam ja 1.0
+Network Architectures - Master Project 12 Portfolio
+examination ja 1.0
+Network Architectures - Master Project (small) 6 Portfolio
+examination ja 1.0
+Network Architectures - Seminar 3 Portfolio
+examination ja 1.0
+Networked Embedded Systems 6 Oral exam ja 1.0
+Networked Systems Specialization (big) 9 Oral exam ja 1.0
+Networked Systems Specialization (small) 6 Oral exam ja 1.0
+Project Advanced Network Technologies 6 Portfolio
+examination ja 1.0
+Project Advanced Research Data Infrastructures 9 Portfolio
+examination ja 1.0
+Project Industrial Assistance-Systems (IAS Project) 9 Portfolio
+examination ja 1.0
+Project Open Distributed Systems 9 Portfolio
+examination ja 1.0
+Projekt - Verteilte industrielle Steuerungssysteme 9 Portfolio
+examination ja 1.0
+Projekt Advanced Web Technologies 9 Portfolio
+examination ja 1.0
+Projekt System Quality Engineering 9 Portfolio
+examination ja 1.0
+Randomized Algorithmics 6 Oral exam ja 1.0
+Reading Group Cloud Systems 3 Portfolio
+examination ja 1.0
+Research Project Advanced Network Technologies 9 Portfolio
+examination ja 1.0
+Scalable Software Systems Project 12 Portfolio
+examination ja 1.0
+Selected Areas of Telecommunication Networks 3 Portfolio
+examination ja 1.0
+Selected Topics in Distributed Systems and Networks (ENHANCE Alliance) 30 Written exam ja 1.0
+Smart Security Lab 6 Portfolio
+examination nein 1.0
+Software Security for Autonomous Systems 6 Portfolio
+examination ja 1.0
+Special Topics in Communications Networks and Autonomous Security 3 Portfolio
+examination ja 1.0
+The AMOS Project - Product Owner Role 6 Portfolio
+examination ja 1.0
+The AMOS Project - Scrum Master Role 3 Portfolio
+examination ja 1.0
+The AMOS Project - Software Developer Role 9 Portfolio
+examination ja 1.0
+Types and Programming Languages 6 Oral exam ja 1.0
+Vehicular Networking and Cooperative Driving 6 Oral exam ja 1.0
+Wireless Communication Systems 6 Portfolio
+examination ja 1.0
