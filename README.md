@@ -1,6 +1,6 @@
 # TU Berlin CS Course Search
 TU Berlin Course Search for Computer Science (Informatik) (M. Sc.) - StuPO 2015 as of Wi/Se 2024/5
-
+![Screenshot](image.png)
 # How to use
 run `python app.py`. 
 
